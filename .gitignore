@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+.vscode
+/.vs
+/Common/bin/Debug/netstandard2.0
+/Common/obj
+/DataAccess/bin/Debug/netstandard2.0
+/DataAccess/obj
+/WebAPI/bin/Debug/netcoreapp2.1
+/WebAPI/Properties
+/WebAPI/obj
+/WebAPI/wwwroot/upload
